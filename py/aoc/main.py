@@ -1,5 +1,7 @@
+from .day01 import solve01
+
 def main():
-    print("Hey girl! :3")
+    print(solve01())
 
 if __name__ == "__main__":
     main()
